@@ -186,10 +186,6 @@ def lowcarb():
 def shop():
     return render_template("shop.html",data_shop = Shop_das.objects)
 
-@app.route('/orders')
-def orders():
-    return render_template("orders.html")
-#--------------------------------------------------BMI
 
 
 
