@@ -3388,6 +3388,10 @@ input[type="button"].btn-block {
 .collapse {
   display: none;
 }
+.collapse1 {
+  min-width:139px;
+  background-color: #D96B66;
+}
 .collapse.in {
   display: block;
 }
