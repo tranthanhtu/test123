@@ -2,6 +2,10 @@
 # Flask
 # ----------------------
 flask
+render_template
+request
+redirect
+url_for
 
 
 # ----------------------
@@ -16,3 +20,4 @@ mock
 gevent
 gunicorn
 mongoengine
+pymongo
